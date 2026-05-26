@@ -228,15 +228,15 @@ Example outputs should be placed in the `images/` directory.
 
 ## FEM Mesh
 
-![Mesh](images/mesh.png)
+![Mesh](images/10mm_elements.png)
 
 ## Temperature Distribution
 
-![Temperature](images/temperature_distribution.png)
+![Temperature](images/10mm_TemperatureDist.png)
 
 ## ANSYS Verification
 
-![ANSYS](images/ansys_validation.png)
+![ANSYS](images/ANSYS_TemperatureDist.png)
 
 ---
 
