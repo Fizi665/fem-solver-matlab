@@ -87,13 +87,15 @@ The following matrices were implemented:
 │   └── find_maximum_heat_source.m
 │
 ├── images/
-│   ├── a.png
-│   ├── b.png
-│   └── c.png
+│   ├── 10mm_elements.png
+│   ├── 10mm_nodes.png
+│   └── ANSYS_mesh.png
 │
 ├── results/
-│   ├── a.jpg
-│   └── b.jpg
+│   ├── 10mm_TemperatureDist.png
+│   ├── 2_5mm_TemperatureDist.png
+│   ├── 5mm_TemperatureDist.png
+│   └── ANSYS_TemperatureDist.png
 │
 └── README.md
 ```
