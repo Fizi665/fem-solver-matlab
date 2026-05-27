@@ -220,8 +220,6 @@ The solver includes visualization of:
 - Node numbering
 - Simulation results
 
-Example outputs should be placed in the `images/` directory.
-
 ---
 
 # Example Screenshots
@@ -232,11 +230,11 @@ Example outputs should be placed in the `images/` directory.
 
 ## Temperature Distribution
 
-![Temperature](images/10mm_TemperatureDist.png)
+![Temperature](results/10mm_TemperatureDist.png)
 
 ## ANSYS Verification
 
-![ANSYS](images/ANSYS_TemperatureDist.png)
+![ANSYS](results/ANSYS_TemperatureDist.png)
 
 ---
 
